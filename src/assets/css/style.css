@@ -20,7 +20,7 @@ header>.headerInner.web>nav>ul>li>.subMnu {position: absolute; left:0; top:55px;
 header>.headerInner.web>nav>ul>li>.subMnu>ol>li {padding:14px 20px; width: 100%; border-bottom:1px solid #E6E8EC; box-sizing: border-box;}
 header>.headerInner.web>nav>ul>li>.subMnu>ol>li:last-child {border-bottom: none;}
 header>.headerInner.web>nav>ul>li>.subMnu>ol>li>a {display: block; font-weight: 600; font-size: 15px; color: #777E90; letter-spacing: 0.5px; transition: all 0.3s;}
-header>.headerInner.web>nav>ul>li>.subMnu>ol>li>a:hover {color: #1ba4e6;}
+header>.headerInner.web>nav>ul>li>.subMnu>ol>li>a:hover {color: #CB2430;}
 header>.headerInner.web>nav>ul>li>.subMnu>ol>li>a>.frame {margin-right: 10px; display: inline-block; width: 24px; height: 24px; vertical-align: middle;}
 header>.headerInner.web>nav>ul>li>.subMnu>ol>li>a>.frame>img {display: block; width: 100%; height: 100%;}
 
@@ -28,8 +28,8 @@ header>.headerInner.web>.connectBtns {display: block;}
 header>.headerInner.web>.connectBtns>ul>li {position: relative; float: left;}
 header>.headerInner.web>.connectBtns>ul>li>a.myInfo {display: block; width: 32px; height: 32px;}
 header>.headerInner.web>.connectBtns>ul>li>a.connect {padding:7px 19px; display: block; font-weight: 400; font-size: 13px; color: #fff; border-radius: 10px;
-  background: #1ba4e6; /* Old browsers */
-  filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#8fdef1', endColorstr='#1ba4e6',GradientType=1 ); /* IE6-9 */
+  background: #CB2430; /* Old browsers */
+  filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#DD727A', endColorstr='#CB2430',GradientType=1 ); /* IE6-9 */
 }
 header>.headerInner.web>.connectBtns>ul>li>a>img {display: block; width: 100%; height: 100%;}
 header>.headerInner.web>.connectBtns>ul>li>.infoCont {position: absolute; right:0; top: 50px; display: none; width: 200px; height: auto; background-color: #fff; box-sizing: border-box; box-shadow: 0px 3px 20px rgba(119, 126, 144, 0.1); border-radius:0 0 16px 16px; z-index: 3000;}
@@ -38,7 +38,7 @@ header>.headerInner.web>.connectBtns>ul>li>.infoCont>.promnubtns>ul>li {border-b
 header>.headerInner.web>.connectBtns>ul>li>.infoCont>.promnubtns>ul>li>a {padding:13px 16px; display: block; width: 100%; height: auto; font-weight: 500; font-size: 15px; color: #777E90; box-sizing: border-box; transition: all 0.3s;}
 header>.headerInner.web>.connectBtns>ul>li>.infoCont>.promnubtns>ul>li>a>.frame {margin-right: 10px; display: inline-block; width: 26px; height: 26px; vertical-align: middle;}
 header>.headerInner.web>.connectBtns>ul>li>.infoCont>.promnubtns>ul>li>a>.frame>img {display: block; width: 100%; height: 100%;}
-header>.headerInner.web>.connectBtns>ul>li>.infoCont>.promnubtns>ul>li:hover>a {color: #1ba4e6;}
+header>.headerInner.web>.connectBtns>ul>li>.infoCont>.promnubtns>ul>li:hover>a {color: #CB2430;}
 
 
 header>.headerInner.mob {position: fixed; top:0; left:0; padding:0 3vw; display: none; width: 100%; height: 8vh; background-color: #fff; box-sizing: border-box; z-index: 4000;}
@@ -51,8 +51,8 @@ header>.headerInner.mob>.mobmnuArea {position: absolute; left:0; top:8vh; displa
 header>.headerInner.mob>.mobmnuArea>.connectBtns {padding:2vh 0; display: block; width: 100%; height: auto; background-color: #fff; box-sizing: border-box;}
 header>.headerInner.mob>.mobmnuArea>.connectBtns>ul>li {}
 header>.headerInner.mob>.mobmnuArea>.connectBtns>ul>li>a.connect {margin:0 auto; padding:2vw 4vw; display: block; width: 25vw; height: auto; font-weight: 400; font-size: 4vw; color: #fff; text-align: center; border-radius: 10px;
-  background: #1ba4e6; /* Old browsers */
-  filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#8fdef1', endColorstr='#1ba4e6',GradientType=1 ); /* IE6-9 */
+  background: #CB2430; /* Old browsers */
+  filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#DD727A', endColorstr='#CB2430',GradientType=1 ); /* IE6-9 */
 }header>.headerInner.mob>.mobmnuArea>.connectBtns>ul>li>a>img {display: block; width: 100%; height: 100%;}
 
 header>.headerInner.mob>.mobmnuArea>.connectBtns>ul>li>.infoCont {margin-top: 1vh; display: block; width: 100%; height: auto; background-color: #fff; box-sizing: border-box;}
@@ -132,13 +132,13 @@ section {position: relative; display: block; width: 100%; height: auto; min-heig
 .sliderCont>.infoBox>.txtbox>.textbox>textArea {display: block; width: 100%; height: 100%; font-weight: 400; font-size: 19px; color: #fff; font-family: 'Poppins'; background-color: transparent; border:none; cursor: default;}
 .sliderCont>.infoBox>.txtbox>.btns {margin-top: 20px; display: flex; justify-content: space-between; flex-direction: row; flex-wrap: nowrap; align-items: center; width: 100%; height: auto;}
 .sliderCont>.infoBox>.txtbox>.btns>a {padding:24px 0; display: block; width: 47%; font-weight: 600; font-size: 19px; color: #fff; text-align: center; border-radius: 16px; border:1px solid transparent;}
-.sliderCont>.infoBox>.txtbox>.btns>a:nth-child(1) {background-color: #1ba4e6; border-color:#1ba4e6;}
+.sliderCont>.infoBox>.txtbox>.btns>a:nth-child(1) {background-color: #CB2430; border-color:#CB2430;}
 .sliderCont>.infoBox>.txtbox>.btns>a:nth-child(2) {background-color: transparent; border-color:#fff;}
 
 .secCont1 {display: block; width: 100%; height: auto; background-color: #F5F6FA;}
 .secCont1>.contInner {margin:0 auto; padding:100px 0 200px; display: block; width: 1440px; height: auto;}
 .secCont1>.contInner>p.subtit {margin-bottom: 20px; position: relative; font-weight: 600; font-size: 33px; color: #000; line-height: normal;}
-.secCont1>.contInner>p.subtit>a {position: absolute; bottom:0; right:0; padding:8px 20px; display: block; font-weight: 400; font-size: 17px; color: #fff; background-color: #1ba4e6; border-radius: 10px;}
+.secCont1>.contInner>p.subtit>a {position: absolute; bottom:0; right:0; padding:8px 20px; display: block; font-weight: 400; font-size: 17px; color: #fff; background-color: #CB2430; border-radius: 10px;}
 .secCont1>.contInner>.listSec {display: block; width: 100%; height: auto;}
 .secCont1>.contInner>.listSec>ul {display: flex; flex-direction: row; flex-wrap: nowrap; justify-content: space-between; align-items: flex-start;}
 .secCont1>.contInner>.listSec>ul>li:nth-child(1) {display: block; width: 30.5%; border-radius: 16px; box-shadow: 0 3px 20px rgba(0,0,0,0.16);}
@@ -205,7 +205,7 @@ section {position: relative; display: block; width: 100%; height: auto; min-heig
 
 .secCont2 {display: block; width: 100%; height: auto; background-color: #F5F6FA;}
 .secCont2>p.subtit {position: relative; margin:0 auto 20px; display: block; width: 1440px; font-weight: 600; font-size: 33px; color: #000; line-height: normal;}
-.secCont2>p.subtit>a {position: absolute; bottom:0; right:0; padding:8px 20px; display: block; font-weight: 400; font-size: 17px; color: #fff; background-color: #1ba4e6; border-radius: 10px;}
+.secCont2>p.subtit>a {position: absolute; bottom:0; right:0; padding:8px 20px; display: block; font-weight: 400; font-size: 17px; color: #fff; background-color: #CB2430; border-radius: 10px;}
 .secCont2>.cont2Bg {position: relative; display: block; width: 100%; height: 440px;}
 .secCont2>.cont2Bg>img {display: block; width: 100%; height: 100%; object-fit: cover; object-position: center;}
 .secCont2>.cont2Bg>.blurbox {position: absolute; top:0; left:0; display: block; width: 100%; height: 100%; backdrop-filter: blur(8px);
@@ -253,11 +253,11 @@ section {position: relative; display: block; width: 100%; height: auto; min-heig
 .secCont2>.contRank>ul>li>.ranklist>.contbox>ol>li:nth-child(1)>.frame>img {display: block; width: 100%; height: 100%; object-fit: cover; object-position: center;}
 .secCont2>.contRank>ul>li>.ranklist>.contbox>ol>li:nth-child(2) {margin:0 10px;}
 .secCont2>.contRank>ul>li>.ranklist>.contbox>ol>li:nth-child(4) {margin-top: 10px; display: block; width: 100%;}
-.secCont2>.contRank>a {margin:0 auto; padding:2vw; display: none; width: 25vw; font-weight: 400; font-size: 3.5vw; color: #1ba4e6; background-color: #F5F6FA; text-align: center; border:1px solid #1ba4e6; border-radius: 12px;}
+.secCont2>.contRank>a {margin:0 auto; padding:2vw; display: none; width: 25vw; font-weight: 400; font-size: 3.5vw; color: #CB2430; background-color: #F5F6FA; text-align: center; border:1px solid #CB2430; border-radius: 12px;}
 
 .secCont3 {display: block; width: 100%; height: auto; background-color: #F5F6FA;}
 .secCont3>p.subtit {position: relative; margin:0 auto 20px; display: block; width: 1440px; font-weight: 600; font-size: 33px; color: #000; line-height: normal;}
-.secCont3>p.subtit>a {position: absolute; bottom:0; right:0; padding:8px 20px; display: block; font-weight: 400; font-size: 17px; color: #fff; background-color: #1ba4e6; border-radius: 10px;}
+.secCont3>p.subtit>a {position: absolute; bottom:0; right:0; padding:8px 20px; display: block; font-weight: 400; font-size: 17px; color: #fff; background-color: #CB2430; border-radius: 10px;}
 .secCont3>.cont2Bg {position: relative; display: block; width: 100%; height: 440px;}
 .secCont3>.cont2Bg>img {display: block; width: 100%; height: 100%; object-fit: cover; object-position: center;}
 .secCont3>.cont2Bg>.blurbox {position: absolute; top:0; left:0; display: block; width: 100%; height: 100%; backdrop-filter: blur(8px);
@@ -292,7 +292,7 @@ section {position: relative; display: block; width: 100%; height: auto; min-heig
 .secCont3>.contRank {margin:0 auto; padding:60px 0 200px; display: block; width: 1440px; height: auto;}
 .secCont3>.contRank>p.subtit {margin-bottom: 20px; font-weight: 600; font-size: 33px; color: #000; line-height: normal;}
 .secCont3>.contRank>ul {width: 100%; height: 405px; display: flex; flex-flow: row wrap; flex-direction: column; align-items: center; flex-wrap: wrap; align-content: space-between;}
-.secCont3>.contRank>a {margin:0 auto; padding:2vw; display: none; width: 25vw; font-weight: 400; font-size: 3.5vw; color: #1ba4e6; background-color: #F5F6FA; text-align: center; border:1px solid #1ba4e6; border-radius: 12px;}
+.secCont3>.contRank>a {margin:0 auto; padding:2vw; display: none; width: 25vw; font-weight: 400; font-size: 3.5vw; color: #CB2430; background-color: #F5F6FA; text-align: center; border:1px solid #CB2430; border-radius: 12px;}
 .secCont3>.contRank>ul>li {margin-bottom: 20px; width: 21%;}
 .secCont3>.contRank>ul>li>.ranklist {display: block; width: 100%; height: auto;}
 .secCont3>.contRank>ul>li>.ranklist>.contbox {display: flex; flex-flow: row nowrap; align-items: flex-start; flex-direction: row; flex-wrap: nowrap; justify-content: flex-start;}
@@ -309,7 +309,7 @@ section {position: relative; display: block; width: 100%; height: auto; min-heig
 
 .secCont4 {display: block; width: 100%; height: auto; background-color: #F5F6FA;}
 .secCont4>p.subtit {position: relative; margin:0 auto 20px; display: block; width: 1440px; font-weight: 600; font-size: 33px; color: #000; line-height: normal;}
-.secCont4>p.subtit>a {position: absolute; bottom:0; right:0; padding:8px 20px; display: block; font-weight: 400; font-size: 17px; color: #fff; background-color: #1ba4e6; border-radius: 10px;}
+.secCont4>p.subtit>a {position: absolute; bottom:0; right:0; padding:8px 20px; display: block; font-weight: 400; font-size: 17px; color: #fff; background-color: #CB2430; border-radius: 10px;}
 .secCont4>.cont2Bg {position: relative; display: block; width: 100%; height: 440px;}
 .secCont4>.cont2Bg>img {display: block; width: 100%; height: 100%; object-fit: cover; object-position: center;}
 .secCont4>.cont2Bg>.blurbox {position: absolute; top:0; left:0; display: block; width: 100%; height: 100%; backdrop-filter: blur(8px);
@@ -344,7 +344,7 @@ section {position: relative; display: block; width: 100%; height: auto; min-heig
 .secCont4>.contRank {margin:0 auto; padding:60px 0 200px; display: block; width: 1440px; height: auto;}
 .secCont4>.contRank>p.subtit {margin-bottom: 20px; font-weight: 600; font-size: 33px; color: #000; line-height: normal;}
 .secCont4>.contRank>ul {width: 100%; height: 405px; display: flex; flex-flow: row wrap; flex-direction: column; align-items: center; flex-wrap: wrap; align-content: space-between;}
-.secCont4>.contRank>a {margin:0 auto; padding:2vw; display: none; width: 25vw; font-weight: 400; font-size: 3.5vw; color: #1ba4e6; background-color: #F5F6FA; text-align: center; border:1px solid #1ba4e6; border-radius: 12px;}
+.secCont4>.contRank>a {margin:0 auto; padding:2vw; display: none; width: 25vw; font-weight: 400; font-size: 3.5vw; color: #CB2430; background-color: #F5F6FA; text-align: center; border:1px solid #CB2430; border-radius: 12px;}
 .secCont4>.contRank>ul>li {margin-bottom: 20px; width: 21%;}
 .secCont4>.contRank>ul>li>.ranklist {display: block; width: 100%; height: auto;}
 .secCont4>.contRank>ul>li>.ranklist>.contbox {display: flex; flex-flow: row nowrap; align-items: flex-start; flex-direction: row; flex-wrap: nowrap; justify-content: flex-start;}
@@ -384,7 +384,7 @@ section {position: relative; display: block; width: 100%; height: auto; min-heig
 .secCont5>.contInner>.contlis>ul>li>.ContFrame>.textArea>p:nth-child(4)>span {font-weight: 400; font-size: 16px; color: #000; line-height: normal;}
 .secCont5>.contInner>.contlis>ul>li>.ContFrame>.textArea>p:nth-child(4)>span>em {margin-right: 4px; font-weight: 600; font-size: 19px; color: #000;}
 .secCont5>.contInner>.btnArea {margin-top: 20px; display: block; width: 100%; height: auto;}
-.secCont5>.contInner>.btnArea>a {padding:21px 0; display: block; width: 100%; font-weight: 500; font-size: 19px; color: #fff; line-height: normal; text-align: center; background-color: #1ba4e6; border-radius: 10px;}
+.secCont5>.contInner>.btnArea>a {padding:21px 0; display: block; width: 100%; font-weight: 500; font-size: 19px; color: #fff; line-height: normal; text-align: center; background-color: #CB2430; border-radius: 10px;}
 
 .secCont6 {display: block; width: 100%; height: auto; background-color: #F5F6FA;}
 .secCont6>.contInner {margin:0 auto; padding:0 0 200px; display: block; width: 1440px; height: auto;}
@@ -411,7 +411,7 @@ section {position: relative; display: block; width: 100%; height: auto; min-heig
 .secCont6>.contInner>.contlis>ul>li>.ContFrame>.textArea>p:nth-child(4)>span {font-weight: 400; font-size: 16px; color: #000; line-height: normal;}
 .secCont6>.contInner>.contlis>ul>li>.ContFrame>.textArea>p:nth-child(4)>span>em {margin-right: 4px; font-weight: 600; font-size: 19px; color: #000;}
 .secCont6>.contInner>.btnArea {margin-top: 20px; display: block; width: 100%; height: auto;}
-.secCont6>.contInner>.btnArea>a {padding:21px 0; display: block; width: 100%; font-weight: 500; font-size: 19px; color: #fff; line-height: normal; text-align: center; background-color: #1ba4e6; border-radius: 10px;}
+.secCont6>.contInner>.btnArea>a {padding:21px 0; display: block; width: 100%; font-weight: 500; font-size: 19px; color: #fff; line-height: normal; text-align: center; background-color: #CB2430; border-radius: 10px;}
 
 .secCont7 {display: block; width: 100%; height: auto; background-color: #F5F6FA;}
 .secCont7>.contInner {margin:0 auto; display: block; width: 1440px; height: auto;}
@@ -446,7 +446,7 @@ section {position: relative; display: block; width: 100%; height: auto; min-heig
 .secCont7>.contInner>.contBox2>.box2>ul>li>a>.frame.type2 {display: block;}
 .secCont7>.contInner>.contBox2>.box2>ul>li>a:hover>.frame.type1 {display: block;}
 .secCont7>.contInner>.contBox2>.box2>ul>li>a:hover>.frame.type2 {display: none;}
-.secCont7>.contInner>.contBox2>.box2>ul>li>a:hover>.txt {color: #1ba4e6;}
+.secCont7>.contInner>.contBox2>.box2>ul>li>a:hover>.txt {color: #CB2430;}
 
 
 
@@ -491,7 +491,7 @@ footer>.footerConts>.footerCont>.footerCont3>ul>li:hover>a:last-child {display: 
 /* NFT 생성페이지 */
 .createnftPage {display: block; width: 100%; height: 100%; background-color: #F5F6FA;}
 .createnftPage>.contents {margin:0 auto; padding:40px 40px 80px; display: block; width: 1060px; height: auto; box-sizing: border-box; background-color: #F5F6FA;}
-.createnftPage>.contents>h2 {font-weight: 600; font-size: 25px; color: #1ba4e6; line-height: normal;}
+.createnftPage>.contents>h2 {font-weight: 600; font-size: 25px; color: #CB2430; line-height: normal;}
 .createnftPage>.contents>.cont1 {margin-top: 20px; display: block; width: 100%; height: auto;}
 .createnftPage>.contents>.cont1>p {margin-bottom: 10px; font-weight: 600; font-size: 19px; color: #000; line-height: normal;}
 .createnftPage>.contents>.cont1>p>em {color: #f00;}
@@ -545,18 +545,18 @@ footer>.footerConts>.footerCont>.footerCont3>ul>li:hover>a:last-child {display: 
 .createnftPage>.contents>.cont5>.selectArea>ul {width: 100%; display: flex; flex-direction: row; flex-wrap: nowrap; justify-content: space-between; align-items: center;}
 .createnftPage>.contents>.cont5>.selectArea>ul>li {width: 32%; text-align: center;}
 .createnftPage>.contents>.cont5>.selectArea>ul>li>a {padding:17.5px 20px; display: block; font-weight: 600; font-size: 19px; color: #777E90; background-color: #fff; box-sizing: border-box; box-shadow: 0px 3px 20px rgba(0,0,0,0.16); border:1px solid transparent; border-radius: 10px;}
-.createnftPage>.contents>.cont5>.selectArea>ul>li.on>a {background-color: #fff; border-color:#1ba4e6; box-shadow: 0 3px 20px rgba(132,76,239,0.5);}
+.createnftPage>.contents>.cont5>.selectArea>ul>li.on>a {background-color: #fff; border-color:#CB2430; box-shadow: 0 3px 20px rgba(132,76,239,0.5);}
 .createnftPage>.contents>.cont5.error>.selectArea>p.err {display: block;}
 .createnftPage>.contents>.cont5.error>.selectArea>ul>li>a {background-color: #FFF8F8; border-color: #FF7A7A;}
 
 .createnftPage>.contents>.btnArea {margin-top: 60px; display: block; width: 100%; height: auto; box-sizing: border-box;}
 .createnftPage>.contents>.btnArea>a {padding:25px 0; display: block; width: 100%; font-weight: 600; font-size: 23px; color: #fff; background-color: #E6E8EC; text-align: center; border-radius: 8px;}
 .createnftPage>.contents>.btnArea>a.on {
-  background: #8fdef1; /* Old browsers */
-  background: -moz-linear-gradient(left,  #8fdef1 0%, #1eb7e3 50%, #1ba4e6 100%); /* FF3.6-15 */
-  background: -webkit-linear-gradient(left,  #8fdef1 0%,#1eb7e3 50%,#1ba4e6 100%); /* Chrome10-25,Safari5.1-6 */
-  background: linear-gradient(to right,  #8fdef1 0%,#1eb7e3 50%,#1ba4e6 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
-  filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#8fdef1', endColorstr='#1ba4e6',GradientType=1); /* IE6-9 */
+  background: #DD727A; /* Old browsers */
+  background: -moz-linear-gradient(left,  #DD727A 0%, #D54F59 50%, #CB2430 100%); /* FF3.6-15 */
+  background: -webkit-linear-gradient(left,  #DD727A 0%,#D54F59 50%,#CB2430 100%); /* Chrome10-25,Safari5.1-6 */
+  background: linear-gradient(to right,  #DD727A 0%,#D54F59 50%,#CB2430 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+  filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#DD727A', endColorstr='#CB2430',GradientType=1); /* IE6-9 */
 }
 /* ---------------------------------------------------------------------------------------------------------------------- */
 
@@ -595,7 +595,7 @@ footer>.footerConts>.footerCont>.footerCont3>ul>li:hover>a:last-child {display: 
 
 .nftDetailsPage>.contents>.nftinfoArea>.descripArea {margin-bottom:40px; display: block; width: 97%; text-align: right;}
 .nftDetailsPage>.contents>.nftinfoArea>.descripArea>p {font-weight: 400; font-size: 15px; color: #000; display: -webkit-box; text-align: left; line-height: 1.5; text-align: left; word-wrap: break-word; white-space: pre-wrap; -webkit-line-clamp: 2; -webkit-box-orient: vertical;}
-.nftDetailsPage>.contents>.nftinfoArea>.descripArea>a {margin-top: 10px; padding:4px 8px; display: inline-block; font-weight: 400; font-size: 13px; color: #fff; background-color:#1ba4e6; border-radius: 10px;}
+.nftDetailsPage>.contents>.nftinfoArea>.descripArea>a {margin-top: 10px; padding:4px 8px; display: inline-block; font-weight: 400; font-size: 13px; color: #fff; background-color:#CB2430; border-radius: 10px;}
 
 .nftDetailsPage>.contents>.nftinfoArea>.ownerInfo {margin-bottom: 40px; display: block; width: 100%; height: auto;}
 .nftDetailsPage>.contents>.nftinfoArea>.ownerInfo>p {font-weight: 600; font-size: 19px; color: #000; line-height: normal;}
@@ -614,7 +614,7 @@ footer>.footerConts>.footerCont>.footerCont3>ul>li:hover>a:last-child {display: 
 
 .nftDetailsPage>.contents>.nftinfoArea>.bidslistArea {margin-bottom: 40px; display: block; width: 100%; height: auto;}
 .nftDetailsPage>.contents>.nftinfoArea>.bidslistArea>p {margin-bottom: 15px; position: relative; font-weight: 600; font-size: 19px; color: #000; line-height: normal;}
-.nftDetailsPage>.contents>.nftinfoArea>.bidslistArea>p>a {position: absolute; top:50%; right:0; padding:4px 8px; display: block; font-weight: 500; font-size: 14px; color: #fff; background-color:#1ba4e6; transform: translateY(-50%); border-radius: 10px;}
+.nftDetailsPage>.contents>.nftinfoArea>.bidslistArea>p>a {position: absolute; top:50%; right:0; padding:4px 8px; display: block; font-weight: 500; font-size: 14px; color: #fff; background-color:#CB2430; transform: translateY(-50%); border-radius: 10px;}
 .nftDetailsPage>.contents>.nftinfoArea>.bidslistArea>.contlist {display: none; width: 100%; height: auto;}
 .nftDetailsPage>.contents>.nftinfoArea>.bidslistArea>.contlist>ul {}
 .nftDetailsPage>.contents>.nftinfoArea>.bidslistArea>.contlist>ul>li {margin-bottom: 10px;}
@@ -623,7 +623,7 @@ footer>.footerConts>.footerCont>.footerCont3>ul>li:hover>a:last-child {display: 
 .nftDetailsPage>.contents>.nftinfoArea>.bidslistArea>.contlist>ul>li>p>span {font-weight: 500;}
 .nftDetailsPage>.contents>.nftinfoArea>.bidslistArea>.contlist>ul>li>p>em {color: #777E90;}
 .nftDetailsPage>.contents>.nftinfoArea>.bidslistArea>.contlist>ul>li.nodata {display: block; width: 100%; height: auto; text-align: center;}
-.nftDetailsPage>.contents>.nftinfoArea>.bidslistArea>.contlist>ul>li.nodata>p {padding:20px 0; font-weight: 500; font-size: 17px; color: #1ba4e6; line-height: normal;}
+.nftDetailsPage>.contents>.nftinfoArea>.bidslistArea>.contlist>ul>li.nodata>p {padding:20px 0; font-weight: 500; font-size: 17px; color: #CB2430; line-height: normal;}
 
 .nftDetailsPage>.contents>.nftinfoArea>.linkArea {margin-bottom: 40px; display: block; width: 100%; height: auto;}
 .nftDetailsPage>.contents>.nftinfoArea>.linkArea>p {margin-bottom: 15px; position: relative; font-weight: 600; font-size: 19px; color: #000; line-height: normal;}
@@ -639,22 +639,22 @@ footer>.footerConts>.footerCont>.footerCont3>ul>li:hover>a:last-child {display: 
 
 .nftDetailsPage>.contents>.nftinfoArea>.btnArea1 {display: block; width: 100%; height: auto; border-radius: 8px; overflow: hidden;}
 .nftDetailsPage>.contents>.nftinfoArea>.btnArea1>a {padding:18px 0; display: block; font-weight: 600; font-size: 23px; color: #fff; line-height: normal; text-align: center;
-  background: #8fdef1; /* Old browsers */
-  background: -moz-linear-gradient(left,  #8fdef1 0%, #1eb7e3 50%, #1ba4e6 100%); /* FF3.6-15 */
-  background: -webkit-linear-gradient(left,  #8fdef1 0%,#1eb7e3 50%,#1ba4e6 100%); /* Chrome10-25,Safari5.1-6 */
-  background: linear-gradient(to right,  #8fdef1 0%,#1eb7e3 50%,#1ba4e6 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
-  filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#8fdef1', endColorstr='#1ba4e6',GradientType=1); /* IE6-9 */
+  background: #DD727A; /* Old browsers */
+  background: -moz-linear-gradient(left,  #DD727A 0%, #D54F59 50%, #CB2430 100%); /* FF3.6-15 */
+  background: -webkit-linear-gradient(left,  #DD727A 0%,#D54F59 50%,#CB2430 100%); /* Chrome10-25,Safari5.1-6 */
+  background: linear-gradient(to right,  #DD727A 0%,#D54F59 50%,#CB2430 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+  filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#DD727A', endColorstr='#CB2430',GradientType=1); /* IE6-9 */
 }
 
 .nftDetailsPage>.contents>.nftinfoArea>.btnArea2 {display: flex; flex-direction: row; flex-wrap: nowrap; justify-content: space-between; align-items: center; width: 100%; height: auto;}
 .nftDetailsPage>.contents>.nftinfoArea>.btnArea2>a {padding:24px 0; display: block; width: 47%; font-weight: 600; font-size: 23px; text-align: center; box-sizing: border-box; border-radius: 8px;}
 .nftDetailsPage>.contents>.nftinfoArea>.btnArea2>a.buynow {color: #fff;
-  background: #8fdef1; /* Old browsers */
-  background: -moz-linear-gradient(left,  #8fdef1 0%, #1eb7e3 50%, #1ba4e6 100%); /* FF3.6-15 */
-  background: -webkit-linear-gradient(left,  #8fdef1 0%,#1eb7e3 50%,#1ba4e6 100%); /* Chrome10-25,Safari5.1-6 */
-  background: linear-gradient(to right,  #8fdef1 0%,#1eb7e3 50%,#1ba4e6 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
-  filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#8fdef1', endColorstr='#1ba4e6',GradientType=1); /* IE6-9 */}
-.nftDetailsPage>.contents>.nftinfoArea>.btnArea2>a.bidnow {color: #1ba4e6; background-color: #F5F6FA; border:1px solid #1ba4e6;}
+  background: #DD727A; /* Old browsers */
+  background: -moz-linear-gradient(left,  #DD727A 0%, #D54F59 50%, #CB2430 100%); /* FF3.6-15 */
+  background: -webkit-linear-gradient(left,  #DD727A 0%,#D54F59 50%,#CB2430 100%); /* Chrome10-25,Safari5.1-6 */
+  background: linear-gradient(to right,  #DD727A 0%,#D54F59 50%,#CB2430 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+  filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#DD727A', endColorstr='#CB2430',GradientType=1); /* IE6-9 */}
+.nftDetailsPage>.contents>.nftinfoArea>.btnArea2>a.bidnow {color: #CB2430; background-color: #F5F6FA; border:1px solid #CB2430;}
 
 
 
@@ -695,7 +695,7 @@ footer>.footerConts>.footerCont>.footerCont3>ul>li:hover>a:last-child {display: 
 
 .nftaddprevPage>.contents>.nftinfoArea>.descripArea {margin-bottom:40px; display: block; width: 97%; text-align: right;}
 .nftaddprevPage>.contents>.nftinfoArea>.descripArea>p {font-weight: 400; font-size: 15px; color: #000; display: -webkit-box; text-align: left; line-height: 1.5; text-align: left; word-wrap: break-word; white-space: pre-wrap; -webkit-line-clamp: 2;  -webkit-box-orient: vertical;}
-.nftaddprevPage>.contents>.nftinfoArea>.descripArea>a {margin-top: 10px; padding:4px 8px; display: inline-block; font-weight: 400; font-size: 13px; color: #fff; background-color:#1ba4e6; border-radius: 10px;}
+.nftaddprevPage>.contents>.nftinfoArea>.descripArea>a {margin-top: 10px; padding:4px 8px; display: inline-block; font-weight: 400; font-size: 13px; color: #fff; background-color:#CB2430; border-radius: 10px;}
 
 .nftaddprevPage>.contents>.nftinfoArea>.ownerInfo {margin-bottom: 40px; display: block; width: 100%; height: auto;}
 .nftaddprevPage>.contents>.nftinfoArea>.ownerInfo>p {font-weight: 600; font-size: 19px; color: #000; line-height: normal;}
@@ -714,7 +714,7 @@ footer>.footerConts>.footerCont>.footerCont3>ul>li:hover>a:last-child {display: 
 
 .nftaddprevPage>.contents>.nftinfoArea>.bidslistArea {margin-bottom: 40px; display: block; width: 100%; height: auto;}
 .nftaddprevPage>.contents>.nftinfoArea>.bidslistArea>p {margin-bottom: 15px; position: relative; font-weight: 600; font-size: 19px; color: #000; line-height: normal;}
-.nftaddprevPage>.contents>.nftinfoArea>.bidslistArea>p>a {position: absolute; top:50%; right:0; padding:4px 8px; display: block; font-weight: 500; font-size: 14px; color: #fff; background-color:#1ba4e6; transform: translateY(-50%); border-radius: 10px;}
+.nftaddprevPage>.contents>.nftinfoArea>.bidslistArea>p>a {position: absolute; top:50%; right:0; padding:4px 8px; display: block; font-weight: 500; font-size: 14px; color: #fff; background-color:#CB2430; transform: translateY(-50%); border-radius: 10px;}
 .nftaddprevPage>.contents>.nftinfoArea>.bidslistArea>.contlist {display: none; width: 100%; height: auto;}
 .nftaddprevPage>.contents>.nftinfoArea>.bidslistArea>.contlist>ul {}
 .nftaddprevPage>.contents>.nftinfoArea>.bidslistArea>.contlist>ul>li {margin-bottom: 10px;}
@@ -723,7 +723,7 @@ footer>.footerConts>.footerCont>.footerCont3>ul>li:hover>a:last-child {display: 
 .nftaddprevPage>.contents>.nftinfoArea>.bidslistArea>.contlist>ul>li>p>span {font-weight: 500;}
 .nftaddprevPage>.contents>.nftinfoArea>.bidslistArea>.contlist>ul>li>p>em {color: #777E90;}
 .nftaddprevPage>.contents>.nftinfoArea>.bidslistArea>.contlist>ul>li.nodata {display: block; width: 100%; height: auto; text-align: center;}
-.nftaddprevPage>.contents>.nftinfoArea>.bidslistArea>.contlist>ul>li.nodata>p {padding:20px 0; font-weight: 500; font-size: 17px; color: #1ba4e6; line-height: normal;}
+.nftaddprevPage>.contents>.nftinfoArea>.bidslistArea>.contlist>ul>li.nodata>p {padding:20px 0; font-weight: 500; font-size: 17px; color: #CB2430; line-height: normal;}
 
 .nftaddprevPage>.contents>.nftinfoArea>.linkArea {margin-bottom: 40px; display: block; width: 100%; height: 240px;}
 .nftaddprevPage>.contents>.nftinfoArea>.linkArea>p {margin-bottom: 15px; position: relative; font-weight: 600; font-size: 19px; color: #000; line-height: normal;}
@@ -739,22 +739,22 @@ footer>.footerConts>.footerCont>.footerCont3>ul>li:hover>a:last-child {display: 
 
 .nftaddprevPage>.contents>.nftinfoArea>.btnArea1 {display: block; width: 100%; height: auto; border-radius: 8px; overflow: hidden;}
 .nftaddprevPage>.contents>.nftinfoArea>.btnArea1>a {padding:18px 0; display: block; font-weight: 600; font-size: 23px; color: #fff; line-height: normal; text-align: center;
-  background: #8fdef1; /* Old browsers */
-  background: -moz-linear-gradient(left,  #8fdef1 0%, #1eb7e3 50%, #1ba4e6 100%); /* FF3.6-15 */
-  background: -webkit-linear-gradient(left,  #8fdef1 0%,#1eb7e3 50%,#1ba4e6 100%); /* Chrome10-25,Safari5.1-6 */
-  background: linear-gradient(to right,  #8fdef1 0%,#1eb7e3 50%,#1ba4e6 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
-  filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#8fdef1', endColorstr='#1ba4e6',GradientType=1); /* IE6-9 */
+  background: #DD727A; /* Old browsers */
+  background: -moz-linear-gradient(left,  #DD727A 0%, #D54F59 50%, #CB2430 100%); /* FF3.6-15 */
+  background: -webkit-linear-gradient(left,  #DD727A 0%,#D54F59 50%,#CB2430 100%); /* Chrome10-25,Safari5.1-6 */
+  background: linear-gradient(to right,  #DD727A 0%,#D54F59 50%,#CB2430 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+  filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#DD727A', endColorstr='#CB2430',GradientType=1); /* IE6-9 */
 }
 
 .nftaddprevPage>.contents>.nftinfoArea>.btnArea2 {display: flex; flex-direction: row; flex-wrap: nowrap; justify-content: space-between; align-items: center; width: 100%; height: auto;}
 .nftaddprevPage>.contents>.nftinfoArea>.btnArea2>a {padding:24px 0; display: block; width: 47%; font-weight: 600; font-size: 23px; text-align: center; box-sizing: border-box; border-radius: 8px;}
 .nftaddprevPage>.contents>.nftinfoArea>.btnArea2>a.buynow {color: #fff;
-  background: #8fdef1; /* Old browsers */
-  background: -moz-linear-gradient(left,  #8fdef1 0%, #1eb7e3 50%, #1ba4e6 100%); /* FF3.6-15 */
-  background: -webkit-linear-gradient(left,  #8fdef1 0%,#1eb7e3 50%,#1ba4e6 100%); /* Chrome10-25,Safari5.1-6 */
-  background: linear-gradient(to right,  #8fdef1 0%,#1eb7e3 50%,#1ba4e6 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
-  filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#8fdef1', endColorstr='#1ba4e6',GradientType=1); /* IE6-9 */}
-.nftaddprevPage>.contents>.nftinfoArea>.btnArea2>a.bidnow {color: #1ba4e6; background-color: #F5F6FA; border:1px solid #1ba4e6;}
+  background: #DD727A; /* Old browsers */
+  background: -moz-linear-gradient(left,  #DD727A 0%, #D54F59 50%, #CB2430 100%); /* FF3.6-15 */
+  background: -webkit-linear-gradient(left,  #DD727A 0%,#D54F59 50%,#CB2430 100%); /* Chrome10-25,Safari5.1-6 */
+  background: linear-gradient(to right,  #DD727A 0%,#D54F59 50%,#CB2430 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+  filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#DD727A', endColorstr='#CB2430',GradientType=1); /* IE6-9 */}
+.nftaddprevPage>.contents>.nftinfoArea>.btnArea2>a.bidnow {color: #CB2430; background-color: #F5F6FA; border:1px solid #CB2430;}
 
 /* 
 
@@ -788,7 +788,7 @@ footer>.footerConts>.footerCont>.footerCont3>ul>li:hover>a:last-child {display: 
 .myprofilePage>.secontinner>.sidemnuArea>ul>li>a>.frame>img {display: block; width: 100%; height: 100%;}
 .myprofilePage>.secontinner>.sidemnuArea>ul>li>a>.frame.type1 {display: none;}
 .myprofilePage>.secontinner>.sidemnuArea>ul>li>a>.frame.type2 {display: inline-block;}
-.myprofilePage>.secontinner>.sidemnuArea>ul>li.on>a {color: #1ba4e6;}
+.myprofilePage>.secontinner>.sidemnuArea>ul>li.on>a {color: #CB2430;}
 .myprofilePage>.secontinner>.sidemnuArea>ul>li.on>a>.frame.type1 {display: inline-block;}
 .myprofilePage>.secontinner>.sidemnuArea>ul>li.on>a>.frame.type2 {display: none;}
 
@@ -801,7 +801,7 @@ footer>.footerConts>.footerCont>.footerCont3>ul>li:hover>a:last-child {display: 
 /* .myprofilePage>.secontinner>.contArea>ul>li>.contprof {} */
 .myprofilePage>.secontinner>.contArea>ul>li>.contprof>.myproArea {padding: 100px 0 50px; display: block;}
 .myprofilePage>.secontinner>.contArea>ul>li>.contprof>.myproArea>.imgArea {position: relative; margin:0 auto 16px; display: block; width: 120px;}
-.myprofilePage>.secontinner>.contArea>ul>li>.contprof>.myproArea>.imgArea>.saveNick {position: absolute; top:90%; left:85%; padding:2px 4px; display: block; font-weight: 500; font-size: 16px; color: #fff; background-color: #8fdef1; transform: translate(120%, -50%); border-radius: 5px;}
+.myprofilePage>.secontinner>.contArea>ul>li>.contprof>.myproArea>.imgArea>.saveNick {position: absolute; top:90%; left:85%; padding:2px 4px; display: block; font-weight: 500; font-size: 16px; color: #fff; background-color: #DD727A; transform: translate(120%, -50%); border-radius: 5px;}
 .myprofilePage>.secontinner>.contArea>ul>li>.contprof>.myproArea>.imgArea>.frame {display: block; width: 120px; height: 120px;}
 .myprofilePage>.secontinner>.contArea>ul>li>.contprof>.myproArea>.imgArea>.frame>img {display: block; width: 100%; height: 100%; object-fit: cover; object-position: center;}
 .myprofilePage>.secontinner>.contArea>ul>li>.contprof>.myproArea>.imgArea>.imgChange {position: absolute; bottom:0; right:0; display: block; width: 30px; height: 30px;}
@@ -810,7 +810,7 @@ footer>.footerConts>.footerCont>.footerCont3>ul>li:hover>a:last-child {display: 
 .myprofilePage>.secontinner>.contArea>ul>li>.contprof>.myproArea>.nickArea>input {display: block; width: 100%; height: 100%; font-weight: 500; font-size: 19px; color: #000; font-family: 'Poppins'; background-color: #F5F6FA; text-align: center; border:none;}
 .myprofilePage>.secontinner>.contArea>ul>li>.contprof>.myproArea>.nickArea>.chgNick {position: absolute; top:50%; right:0; display: block; width: 16px; height: 16px; transform: translate(120%, -50%);}
 .myprofilePage>.secontinner>.contArea>ul>li>.contprof>.myproArea>.nickArea>.chgNick>img {display: block; width: 100%; height: 100%;}
-.myprofilePage>.secontinner>.contArea>ul>li>.contprof>.myproArea>.nickArea>.saveNick {position: absolute; top:50%; right:0; padding:2px 4px; display: block; font-weight: 500; font-size: 16px; color: #fff; background-color: #8fdef1; transform: translate(120%, -50%); border-radius: 5px;}
+.myprofilePage>.secontinner>.contArea>ul>li>.contprof>.myproArea>.nickArea>.saveNick {position: absolute; top:50%; right:0; padding:2px 4px; display: block; font-weight: 500; font-size: 16px; color: #fff; background-color: #DD727A; transform: translate(120%, -50%); border-radius: 5px;}
 .myprofilePage>.secontinner>.contArea>ul>li>.contprof>.myproArea>.transAddr {position: relative; margin:0 auto; padding:10px 15px; display: block; width: 54%; height: auto; background-color: #fff; box-sizing: border-box; border-radius: 10px;}
 .myprofilePage>.secontinner>.contArea>ul>li>.contprof>.myproArea>.transAddr>p {width: 97%; font-weight: 500; font-size: 15px; color: #777E90; line-height: normal;}
 .myprofilePage>.secontinner>.contArea>ul>li>.contprof>.myproArea>.transAddr>a {position: absolute; top:50%; right:15px; display: block; width: 16px; height: 16px; transform: translateY(-50%);}
@@ -821,7 +821,7 @@ footer>.footerConts>.footerCont>.footerCont3>ul>li:hover>a:last-child {display: 
 .myprofilePage>.secontinner>.contArea>ul>li>.contprof>.contlistArea>.tapMnuArea>ul>li {margin-right:11%; display: block;}
 .myprofilePage>.secontinner>.contArea>ul>li>.contprof>.contlistArea>.tapMnuArea>ul>li:last-child {margin-right: 0;}
 .myprofilePage>.secontinner>.contArea>ul>li>.contprof>.contlistArea>.tapMnuArea>ul>li>a {padding:0 10px; font-weight: 600; font-size: 19px; color: #777E90; line-height: normal; border-bottom:4px solid transparent;}
-.myprofilePage>.secontinner>.contArea>ul>li>.contprof>.contlistArea>.tapMnuArea>ul>li.on>a {color: #000; border-color: #8fdef1;}
+.myprofilePage>.secontinner>.contArea>ul>li>.contprof>.contlistArea>.tapMnuArea>ul>li.on>a {color: #000; border-color: #DD727A;}
 
 .myprofilePage>.secontinner>.contArea>ul>li>.contprof>.contlistArea>ul>li {display: none;}
 .myprofilePage>.secontinner>.contArea>ul>li>.contprof>.contlistArea>ul>li:nth-child(1) {display: block;}
@@ -829,7 +829,7 @@ footer>.footerConts>.footerCont>.footerCont3>ul>li:hover>a:last-child {display: 
 .myprofilePage>.secontinner>.contArea>ul>li>.contprof>.contlistArea>ul>li:nth-child(3) {display: none;}
 .myprofilePage>.secontinner>.contArea>ul>li>.contprof>.contlistArea>ul>li>.tapSec>ol {display: flex; flex-direction: row; flex-wrap: wrap; justify-content: flex-start; align-items: center;}
 .myprofilePage>.secontinner>.contArea>ul>li>.contprof>.contlistArea>ul>li>.tapSec>ol>li.nodata {display: block; width: 100%;}
-.myprofilePage>.secontinner>.contArea>ul>li>.contprof>.contlistArea>ul>li>.tapSec>ol>li.nodata>p {padding:120px 0; font-weight: 500; font-size: 35px; color: #1ba4e6; line-height: normal; text-align: center;}
+.myprofilePage>.secontinner>.contArea>ul>li>.contprof>.contlistArea>ul>li>.tapSec>ol>li.nodata>p {padding:120px 0; font-weight: 500; font-size: 35px; color: #CB2430; line-height: normal; text-align: center;}
 .myprofilePage>.secontinner>.contArea>ul>li>.contprof>.contlistArea>ul>li>.tapSec>ol>li {display: block; width: 25%;}
 .myprofilePage>.secontinner>.contArea>ul>li>.contprof>.contlistArea>ul>li>.tapSec>ol>li>.nftCont {position: relative; padding: 20px; display: block; width: 100%; height: 100%; box-sizing: border-box;}
 .myprofilePage>.secontinner>.contArea>ul>li>.contprof>.contlistArea>ul>li>.tapSec>ol>li>.nftCont>.ContFrame {display: block; width: 100%; height: auto; border-radius: 16px; overflow: hidden;}
@@ -854,10 +854,10 @@ footer>.footerConts>.footerCont>.footerCont3>ul>li:hover>a:last-child {display: 
 .myprofilePage>.secontinner>.contArea>ul>li>.contswap>.tapMnuArea>ul>li {margin-right:11%; display: block;}
 .myprofilePage>.secontinner>.contArea>ul>li>.contswap>.tapMnuArea>ul>li:last-child {margin-right: 0;}
 .myprofilePage>.secontinner>.contArea>ul>li>.contswap>.tapMnuArea>ul>li>a {padding:0 10px; font-weight: 600; font-size: 19px; color: #777E90; line-height: normal; border-bottom:4px solid transparent;}
-.myprofilePage>.secontinner>.contArea>ul>li>.contswap>.tapMnuArea>ul>li.on>a {color: #000; border-color: #8fdef1; /* Old browsers */
-  border-image: -moz-linear-gradient(left,  #8fdef1 0%, #1ba4e6 100%); /* FF3.6-15 */
-  border-image: -webkit-linear-gradient(left,  #8fdef1 0%,#1ba4e6 100%); /* Chrome10-25,Safari5.1-6 */
-  border-image: linear-gradient(to right,  #8fdef1 0%,#1ba4e6 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+.myprofilePage>.secontinner>.contArea>ul>li>.contswap>.tapMnuArea>ul>li.on>a {color: #000; border-color: #DD727A; /* Old browsers */
+  border-image: -moz-linear-gradient(left,  #DD727A 0%, #CB2430 100%); /* FF3.6-15 */
+  border-image: -webkit-linear-gradient(left,  #DD727A 0%,#CB2430 100%); /* Chrome10-25,Safari5.1-6 */
+  border-image: linear-gradient(to right,  #DD727A 0%,#CB2430 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
   border-image-slice: 1;
 }
 .myprofilePage>.secontinner>.contArea>ul>li>.contswap>.swapCont {display: block; width: 100%; height: auto;}
@@ -876,11 +876,11 @@ footer>.footerConts>.footerCont>.footerCont3>ul>li:hover>a:last-child {display: 
 .myprofilePage>.secontinner>.contArea>ul>li>.contswap>.swapCont>ul>li>.balanceCont>ol>li:nth-child(1)>p>span>em {display: inline-block; width: 96%; font-weight: 500; font-size: 15px; color: #777E90; vertical-align: middle;}
 .myprofilePage>.secontinner>.contArea>ul>li>.contswap>.swapCont>ul>li>.balanceCont>ol>li>.btnArea {display: block; width: 100%; height: auto; text-align: right;}
 .myprofilePage>.secontinner>.contArea>ul>li>.contswap>.swapCont>ul>li>.balanceCont>ol>li>.btnArea>a {padding:10px 20px; display: inline-block; font-weight: 500; font-size: 17px; color: #fff; text-align: center; border-radius: 8px;
-  background: #8fdef1; /* Old browsers */
-  background: -moz-linear-gradient(left,  #8fdef1 0%, #1ba4e6 100%); /* FF3.6-15 */
-  background: -webkit-linear-gradient(left,  #8fdef1 0%,#1ba4e6 100%); /* Chrome10-25,Safari5.1-6 */
-  background: linear-gradient(to right,  #8fdef1 0%,#1ba4e6 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
-  filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#8fdef1', endColorstr='#1ba4e6',GradientType=1 ); /* IE6-9 */
+  background: #DD727A; /* Old browsers */
+  background: -moz-linear-gradient(left,  #DD727A 0%, #CB2430 100%); /* FF3.6-15 */
+  background: -webkit-linear-gradient(left,  #DD727A 0%,#CB2430 100%); /* Chrome10-25,Safari5.1-6 */
+  background: linear-gradient(to right,  #DD727A 0%,#CB2430 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+  filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#DD727A', endColorstr='#CB2430',GradientType=1 ); /* IE6-9 */
 }
 .myprofilePage>.secontinner>.contArea>ul>li>.contswap>.swapCont>ul>li>.swaphiscont {display: block; width: 100%; height: auto;}
 /* .myprofilePage>.secontinner>.contArea>ul>li>.contswap>.swapCont>ul>li>.swaphiscont>.tableArea {} */
@@ -914,7 +914,7 @@ footer>.footerConts>.footerCont>.footerCont3>ul>li:hover>a:last-child {display: 
 .exchgPop>.exchgCont {position: absolute; top:50%; left:50%; display: block; width: 376px; height: auto; background-color: #fff; transform: translate(-50%, -50%); box-shadow: 0px 3px 20px rgba(119, 126, 144, 0.1); border-radius: 16px;}
 .exchgPop>.exchgCont>a {position: absolute; top:10px; right:14px; padding:10px; display: block; width: 16px; height: 16px;}
 .exchgPop>.exchgCont>a>img {display: block; width: 100%; height: 100%;}
-.exchgPop>.exchgCont>.popTIt {margin:0 auto; padding:22px 0 5px; display: block; width: 200px; font-weight: 600; font-size: 17px; color: #1ba4e6; line-height: normal; text-align: center; border-bottom:1px solid #E6E8EC;}
+.exchgPop>.exchgCont>.popTIt {margin:0 auto; padding:22px 0 5px; display: block; width: 200px; font-weight: 600; font-size: 17px; color: #CB2430; line-height: normal; text-align: center; border-bottom:1px solid #E6E8EC;}
 .exchgPop>.exchgCont>.inputSec {margin:35px 0 25px; padding:0 35px; display: block; width: 100%; height: auto; box-sizing: border-box;}
 .exchgPop>.exchgCont>.inputSec>ul>li {margin-bottom: 24px;}
 .exchgPop>.exchgCont>.inputSec>ul>li:nth-child(3) {margin-bottom: 8px;}
@@ -933,7 +933,7 @@ footer>.footerConts>.footerCont>.footerCont3>ul>li:hover>a:last-child {display: 
 .exchgPop>.exchgCont>.btnArea {display: flex; width: 100%; height: auto; border-top:1px solid #E6E8EC;}
 .exchgPop>.exchgCont>.btnArea>a {padding:20px 0; display: block; width: 50%; font-weight: 500; font-size: 15px; color: #777E90; box-sizing: border-box; text-align: center;}
 .exchgPop>.exchgCont>.btnArea>a:first-child {border-right:1px solid #e6e8ec;}
-.exchgPop>.exchgCont>.btnArea>a:last-child {color: #1ba4e6;}
+.exchgPop>.exchgCont>.btnArea>a:last-child {color: #CB2430;}
 /* ---------------------------------------------------------------------------------------------------------------------- */
 
 /* 환전 완료 팝업 */
@@ -942,19 +942,19 @@ footer>.footerConts>.footerCont>.footerCont3>ul>li:hover>a:last-child {display: 
 .exchgcompPop>.exchgcompCont {position: absolute; top:50%; left:50%; display: block; width: 376px; height: auto; background-color: #fff; transform: translate(-50%, -50%); box-shadow: 0px 3px 20px rgba(119, 126, 144, 0.1); border-radius: 16px;}
 .exchgcompPop>.exchgcompCont>a {position: absolute; top:10px; right:14px; padding:10px; display: block; width: 16px; height: 16px;}
 .exchgcompPop>.exchgcompCont>a>img {display: block; width: 100%; height: 100%;}
-.exchgcompPop>.exchgcompCont>.popTIt {margin:0 auto; padding:22px 0 5px; display: block; width: 200px; font-weight: 600; font-size: 17px; color: #1ba4e6; line-height: normal; text-align: center; border-bottom:1px solid #E6E8EC;}
+.exchgcompPop>.exchgcompCont>.popTIt {margin:0 auto; padding:22px 0 5px; display: block; width: 200px; font-weight: 600; font-size: 17px; color: #CB2430; line-height: normal; text-align: center; border-bottom:1px solid #E6E8EC;}
 .exchgcompPop>.exchgcompCont>.txtbox {margin:30px 0; display: block; width: 100%; height: auto; text-align: center;}
 .exchgcompPop>.exchgcompCont>.txtbox>p {font-weight: 500; font-size: 17px; color: #777E90; line-height: normal;}
 .exchgcompPop>.exchgcompCont>.txtbox>p:last-child {margin-top: 5px;}
 .exchgcompPop>.exchgcompCont>.btnArea {display: block; width: 100%; height: auto; border-top:1px solid #E6E8EC;}
-.exchgcompPop>.exchgcompCont>.btnArea>a {padding:20px 0; display: block; width: 100%; font-weight: 500; font-size: 15px; color: #1ba4e6; box-sizing: border-box; text-align: center;}
+.exchgcompPop>.exchgcompCont>.btnArea>a {padding:20px 0; display: block; width: 100%; font-weight: 500; font-size: 15px; color: #CB2430; box-sizing: border-box; text-align: center;}
 /* ---------------------------------------------------------------------------------------------------------------------- */
 
 /* 경매 생성하기 팝업 */
 .createauctionPop {position: fixed; top: 0; left: 0; display: none; width: 100%; height: 100%; z-index: 4000;}
 .createauctionPop>.shadow {display: block; width: 100%; height: 100%; background-color: rgba(35, 38, 47, 0.5);}
 .createauctionPop>.contArea {padding-top: 20px; position: absolute; top: 50%; left: 50%; display: block; width: 376px; height: auto; box-sizing: border-box; background-color: #fff; transform: translate(-50%, -50%); border-radius: 16px;}
-.createauctionPop>.contArea>p.tit {margin:0 auto 30px; padding-bottom:5px; display: block; width: 200px; font-weight: 600; font-size: 17px; color: #1ba4e6; text-align: center; border-bottom: 1px solid #E6E8EC;}
+.createauctionPop>.contArea>p.tit {margin:0 auto 30px; padding-bottom:5px; display: block; width: 200px; font-weight: 600; font-size: 17px; color: #CB2430; text-align: center; border-bottom: 1px solid #E6E8EC;}
 .createauctionPop>.contArea>a {position: absolute; top:17px; right:24px; display: block; width: 16px; height: 16px;}
 .createauctionPop>.contArea>a>img {display: block; width: 100%; height: 100%;}
 .createauctionPop>.contArea>.inputbox {padding:0 36px; display: block; width: 100%; height: auto; box-sizing: border-box;}
@@ -986,25 +986,25 @@ footer>.footerConts>.footerCont>.footerCont3>ul>li:hover>a:last-child {display: 
 .createauctionPop>.contArea>.btnArea>a {padding: 20px 0; display: block; width: 50%; height: auto; font-weight: 500; font-size: 15px; color: #E6E8EC; text-align: center; box-sizing: border-box; border-top:1px solid #E6E8EC;}
 .createauctionPop>.contArea>.btnArea>a.cacl {border-right: 1px solid #E6E8EC;}
 .createauctionPop>.contArea>.btnArea>.cacl {color: #777E90;}
-.createauctionPop>.contArea>.btnArea>.on {color: #1ba4e6;}
+.createauctionPop>.contArea>.btnArea>.on {color: #CB2430;}
 /* ---------------------------------------------------------------------------------------------------------------------- */
 
 /* 경매 생성 완료 팝업 */
 .auctionsuccessPop {position: fixed; top: 0; left: 0; display: none; width: 100%; height: 100%; z-index: 4000;}
 .auctionsuccessPop>.shadow {display: block; width: 100%; height: 100%; background-color: rgba(35, 38, 47, 0.5);}
 .auctionsuccessPop>.contArea {padding-top: 22px; position: absolute; top: 50%; left: 50%; display: block; width: auto; height: auto; box-sizing: border-box; background-color: #fff; transform: translate(-50%, -50%); border-radius: 16px;}
-.auctionsuccessPop>.contArea>p.tit {margin:0 auto; padding-bottom:5px; display: block; width: 200px; font-weight: 600; font-size: 17px; color: #1ba4e6; text-align: center; border-bottom: 1px solid #E6E8EC;}
+.auctionsuccessPop>.contArea>p.tit {margin:0 auto; padding-bottom:5px; display: block; width: 200px; font-weight: 600; font-size: 17px; color: #CB2430; text-align: center; border-bottom: 1px solid #E6E8EC;}
 .auctionsuccessPop>.contArea>.contbox {padding:0 50px; display: block; width: 100%; height: auto; box-sizing: border-box;}
 .auctionsuccessPop>.contArea>.contbox>.txtbox1 {margin:20px 0; display: block; width: 100%; height: auto; text-align: center;}
 .auctionsuccessPop>.contArea>.contbox>.txtbox1>p {font-weight: 400; font-size: 15px; color: #777E90; line-height: normal;}
-.auctionsuccessPop>.contArea>.contbox>.txtbox1>p:last-child {font-weight: 600; font-size: 21px; color: #1ba4e6;}
+.auctionsuccessPop>.contArea>.contbox>.txtbox1>p:last-child {font-weight: 600; font-size: 21px; color: #CB2430;}
 .auctionsuccessPop>.contArea>.contbox>.txtbox2 {margin:20px 0; display: block; width: 100%; height: auto; text-align: center;}
 .auctionsuccessPop>.contArea>.contbox>.txtbox2>p {font-weight: 400; font-size: 17px; color: #777E90; line-height: normal;}
-.auctionsuccessPop>.contArea>.contbox>.txtbox2>p:last-child {font-weight: 600; font-size: 19px; color: #1ba4e6;}
+.auctionsuccessPop>.contArea>.contbox>.txtbox2>p:last-child {font-weight: 600; font-size: 19px; color: #CB2430;}
 .auctionsuccessPop>.contArea>.contbox>.frame {display: block; width: 400px; height: 206px; border-radius: 16px; overflow: hidden;}
 .auctionsuccessPop>.contArea>.contbox>.frame>img {display: block; width: 100%; height: 100%; object-fit: cover; object-position: center;}
 .auctionsuccessPop>.contArea>.btnArea {display: block; width: 100%; height: auto; text-align: center; border-top: 1px solid #E6E8EC;}
-.auctionsuccessPop>.contArea>.btnArea>a {padding:28px 0; display: block; font-weight: 500; font-size: 17px; color: #1ba4e6;}
+.auctionsuccessPop>.contArea>.btnArea>a {padding:28px 0; display: block; font-weight: 500; font-size: 17px; color: #CB2430;}
 /* ---------------------------------------------------------------------------------------------------------------------- */
 
 /* settle 팝업 */
@@ -1013,7 +1013,7 @@ footer>.footerConts>.footerCont>.footerCont3>ul>li:hover>a:last-child {display: 
 .settlePop>.contArea {padding-top: 22px; position: absolute; top: 50%; left: 50%; display: block; width: auto; height: auto; box-sizing: border-box; background-color: #fff; transform: translate(-50%, -50%); border-radius: 16px;}
 .settlePop>.contArea>a {position: absolute; top: 20px; right: 20px; display: block; width: 16px; height: 16px;}
 .settlePop>.contArea>a>img {display: block; width: 100%; height: 100%;}
-.settlePop>.contArea>p.tit {margin:0 auto; padding-bottom:8px; display: block; width: 315px; font-weight: 600; font-size: 17px; color: #1ba4e6; text-align: center; border-bottom: 1px solid #E6E8EC;}
+.settlePop>.contArea>p.tit {margin:0 auto; padding-bottom:8px; display: block; width: 315px; font-weight: 600; font-size: 17px; color: #CB2430; text-align: center; border-bottom: 1px solid #E6E8EC;}
 .settlePop>.contArea>.contbox {margin-top: 20px; padding:0 50px; display: block; width: 100%; height: auto; box-sizing: border-box;}
 .settlePop>.contArea>.contbox>.frame {margin:0 auto; display: block; width: 400px; height: 206px;}
 .settlePop>.contArea>.contbox>.frame>img {display: block; width: 100%; height: 100%; object-fit: cover; object-position: center;}
@@ -1025,7 +1025,7 @@ footer>.footerConts>.footerCont>.footerCont3>ul>li:hover>a:last-child {display: 
 .settlePop>.contArea>.contbox>.txtbox>p:last-child>span {display: inline-block; vertical-align: middle;}
 .settlePop>.contArea>.contbox>.txtbox>p:last-child>span>em {margin:0 5px 0 10px; font-weight: 600; font-size: 19px; color: #000;}
 .settlePop>.contArea>.btnArea {display: block; width: 100%; height: auto; text-align: center; border-top: 1px solid #E6E8EC;}
-.settlePop>.contArea>.btnArea>a {padding:28px 0; display: block; font-weight: 500; font-size: 17px; color: #1ba4e6;}
+.settlePop>.contArea>.btnArea>a {padding:28px 0; display: block; font-weight: 500; font-size: 17px; color: #CB2430;}
 /* ---------------------------------------------------------------------------------------------------------------------- */
 
 /* place a bid 팝업 */
@@ -1034,7 +1034,7 @@ footer>.footerConts>.footerCont>.footerCont3>ul>li:hover>a:last-child {display: 
 .placeabidPop>.contArea {padding-top: 22px; position: absolute; top: 50%; left: 50%; display: block; width: auto; height: auto; box-sizing: border-box; background-color: #fff; transform: translate(-50%, -50%); border-radius: 16px;}
 .placeabidPop>.contArea>a {position: absolute; top: 20px; right: 20px; display: block; width: 16px; height: 16px;}
 .placeabidPop>.contArea>a>img {display: block; width: 100%; height: 100%;}
-.placeabidPop>.contArea>p.tit {margin:0 auto; padding-bottom:8px; display: block; width: 315px; font-weight: 600; font-size: 17px; color: #1ba4e6; text-align: center; border-bottom: 1px solid #E6E8EC; text-transform: uppercase;}
+.placeabidPop>.contArea>p.tit {margin:0 auto; padding-bottom:8px; display: block; width: 315px; font-weight: 600; font-size: 17px; color: #CB2430; text-align: center; border-bottom: 1px solid #E6E8EC; text-transform: uppercase;}
 .placeabidPop>.contArea>.contbox {margin-top: 20px; padding:0 50px; display: block; width: 100%; height: auto; box-sizing: border-box;}
 .placeabidPop>.contArea>.contbox>.frame {margin:0 auto; display: block; width: 400px; height: 206px;}
 .placeabidPop>.contArea>.contbox>.frame>img {display: block; width: 100%; height: 100%; object-fit: cover; object-position: center;}
@@ -1046,11 +1046,11 @@ footer>.footerConts>.footerCont>.footerCont3>ul>li:hover>a:last-child {display: 
 .placeabidPop>.contArea>.contbox>.txtbox>.inputArea {margin-top: 18px; display: flex; width: 100%; height: auto; flex-direction: row; flex-wrap: nowrap; justify-content: space-between; align-items: center;}
 .placeabidPop>.contArea>.contbox>.txtbox>.inputArea>span {font-weight: 500; font-size: 15px; color: #000; line-height: normal;}
 .placeabidPop>.contArea>.contbox>.txtbox>.inputArea>input {display: inline-block; width: 68%; font-family: Poppins; font-weight: 600; font-size: 19px; color: #000; text-align: right; border:none; border-bottom:1px solid #AFB5C7;}
-.placeabidPop>.contArea>.contbox>.txtbox>.inputArea.on>input {border-color: #1ba4e6;}
+.placeabidPop>.contArea>.contbox>.txtbox>.inputArea.on>input {border-color: #CB2430;}
 
 .placeabidPop>.contArea>.btnArea {display: block; width: 100%; height: auto; text-align: center; border-top: 1px solid #E6E8EC;}
 .placeabidPop>.contArea>.btnArea>a {padding:28px 0; display: block; font-weight: 500; font-size: 17px; color: #E6E8EC;}
-.placeabidPop>.contArea>.btnArea>a.on {color: #1ba4e6;}
+.placeabidPop>.contArea>.btnArea>a.on {color: #CB2430;}
 /* ---------------------------------------------------------------------------------------------------------------------- */
 
 /* Buy Now 팝업 */
@@ -1059,7 +1059,7 @@ footer>.footerConts>.footerCont>.footerCont3>ul>li:hover>a:last-child {display: 
 .buynowPop>.contArea {padding-top: 22px; position: absolute; top: 50%; left: 50%; display: block; width: auto; height: auto; box-sizing: border-box; background-color: #fff; transform: translate(-50%, -50%); border-radius: 16px;}
 .buynowPop>.contArea>a {position: absolute; top: 20px; right: 20px; display: block; width: 16px; height: 16px;}
 .buynowPop>.contArea>a>img {display: block; width: 100%; height: 100%;}
-.buynowPop>.contArea>p.tit {margin:0 auto; padding-bottom:8px; display: block; width: 315px; font-weight: 600; font-size: 17px; color: #1ba4e6; text-align: center; border-bottom: 1px solid #E6E8EC; text-transform: uppercase;}
+.buynowPop>.contArea>p.tit {margin:0 auto; padding-bottom:8px; display: block; width: 315px; font-weight: 600; font-size: 17px; color: #CB2430; text-align: center; border-bottom: 1px solid #E6E8EC; text-transform: uppercase;}
 .buynowPop>.contArea>.contbox {margin-top: 20px; padding:0 50px; display: block; width: 100%; height: auto; box-sizing: border-box;}
 .buynowPop>.contArea>.contbox>.frame {margin:0 auto; display: block; width: 400px; height: 206px;}
 .buynowPop>.contArea>.contbox>.frame>img {display: block; width: 100%; height: 100%; object-fit: cover; object-position: center;}
@@ -1071,11 +1071,11 @@ footer>.footerConts>.footerCont>.footerCont3>ul>li:hover>a:last-child {display: 
 .buynowPop>.contArea>.contbox>.txtbox>.inputArea {margin-top: 18px; display: flex; width: 100%; height: auto; flex-direction: row; flex-wrap: nowrap; justify-content: space-between; align-items: center;}
 .buynowPop>.contArea>.contbox>.txtbox>.inputArea>span {font-weight: 500; font-size: 15px; color: #000; line-height: normal;}
 .buynowPop>.contArea>.contbox>.txtbox>.inputArea>input {display: inline-block; width: 62%; font-family: Poppins; font-weight: 600; font-size: 19px; color: #000; text-align: right; border:none; border-bottom:1px solid #AFB5C7;}
-.buynowPop>.contArea>.contbox>.txtbox>.inputArea.on>input {border-color: #1ba4e6;}
+.buynowPop>.contArea>.contbox>.txtbox>.inputArea.on>input {border-color: #CB2430;}
 
 .buynowPop>.contArea>.btnArea {display: block; width: 100%; height: auto; text-align: center; border-top: 1px solid #E6E8EC;}
 .buynowPop>.contArea>.btnArea>a {padding:28px 0; display: block; font-weight: 500; font-size: 17px; color: #E6E8EC;}
-.buynowPop>.contArea>.btnArea>a.on {color: #1ba4e6;}
+.buynowPop>.contArea>.btnArea>a.on {color: #CB2430;}
 /* ---------------------------------------------------------------------------------------------------------------------- */
 
 
@@ -1245,7 +1245,7 @@ footer>.footerConts>.footerCont>.footerCont3>ul>li:hover>a:last-child {display: 
 
   .nftDetailsPage>.contents>.nftinfoArea>.descripArea {margin-bottom:4vw; display: block; width: 97%; text-align: right;}
   .nftDetailsPage>.contents>.nftinfoArea>.descripArea>p {margin-left: 8vw; font-weight: 400; font-size: 15px;  color: #000; display: -webkit-box; text-align: left; line-height: 1.5; text-align: left; word-wrap: break-word; white-space: pre-wrap; -webkit-line-clamp: 2; -webkit-box-orient: vertical;}
-  .nftDetailsPage>.contents>.nftinfoArea>.descripArea>a {margin-top: 2vw; padding:1vw 2vw; display: inline-block; font-weight: 400; font-size: 13px; color: #fff; background-color:#1ba4e6; border-radius: 10px;}
+  .nftDetailsPage>.contents>.nftinfoArea>.descripArea>a {margin-top: 2vw; padding:1vw 2vw; display: inline-block; font-weight: 400; font-size: 13px; color: #fff; background-color:#CB2430; border-radius: 10px;}
 
   .nftDetailsPage>.contents>.nftinfoArea>.ownerInfo {margin-left: 8vw; margin-bottom: 40px; display: block; width: 100%; height: auto;}
   .nftDetailsPage>.contents>.nftinfoArea>.ownerInfo>p {font-weight: 600; font-size: 19px; color: #000; line-height: normal;}
@@ -1264,7 +1264,7 @@ footer>.footerConts>.footerCont>.footerCont3>ul>li:hover>a:last-child {display: 
 
   .nftDetailsPage>.contents>.nftinfoArea>.bidslistArea {margin-bottom: 10vw; display: block; width: 100%; height: auto;}
   .nftDetailsPage>.contents>.nftinfoArea>.bidslistArea>p {margin-left: 8vw; margin-bottom: 3vw; position: relative; font-weight: 600; font-size: 5vw; color: #000; line-height: normal;}
-  .nftDetailsPage>.contents>.nftinfoArea>.bidslistArea>p>a {margin-right: 5vw; position: absolute; top:50%; right:0; padding:1vw 2vw; display: block; font-weight: 500; font-size: 3vw; color: #fff; background-color:#1ba4e6; transform: translateY(-50%); border-radius: 10px;}
+  .nftDetailsPage>.contents>.nftinfoArea>.bidslistArea>p>a {margin-right: 5vw; position: absolute; top:50%; right:0; padding:1vw 2vw; display: block; font-weight: 500; font-size: 3vw; color: #fff; background-color:#CB2430; transform: translateY(-50%); border-radius: 10px;}
   .nftDetailsPage>.contents>.nftinfoArea>.bidslistArea>.contlist {display: none; width: 100%; height: auto;}
   .nftDetailsPage>.contents>.nftinfoArea>.bidslistArea>.contlist>ul {}
   .nftDetailsPage>.contents>.nftinfoArea>.bidslistArea>.contlist>ul>li {margin-bottom: 2vw;}
@@ -1273,7 +1273,7 @@ footer>.footerConts>.footerCont>.footerCont3>ul>li:hover>a:last-child {display: 
   .nftDetailsPage>.contents>.nftinfoArea>.bidslistArea>.contlist>ul>li>p>span {font-weight: 500;}
   .nftDetailsPage>.contents>.nftinfoArea>.bidslistArea>.contlist>ul>li>p>em {color: #777E90;}
   .nftDetailsPage>.contents>.nftinfoArea>.bidslistArea>.contlist>ul>li.nodata {display: block; width: 100%; height: auto; text-align: center;}
-  .nftDetailsPage>.contents>.nftinfoArea>.bidslistArea>.contlist>ul>li.nodata>p {padding:4vw 0; font-weight: 500; font-size: 5vw; color: #1ba4e6; line-height: normal;}
+  .nftDetailsPage>.contents>.nftinfoArea>.bidslistArea>.contlist>ul>li.nodata>p {padding:4vw 0; font-weight: 500; font-size: 5vw; color: #CB2430; line-height: normal;}
 
   .nftDetailsPage>.contents>.nftinfoArea>.linkArea {margin-bottom: 10vw; display: block; width: 100%; height: auto;}
   .nftDetailsPage>.contents>.nftinfoArea>.linkArea>p {margin-left: 8vw; margin-bottom: 4vw; position: relative; font-weight: 600; font-size: 5vw; color: #000; line-height: normal;}
@@ -1289,22 +1289,22 @@ footer>.footerConts>.footerCont>.footerCont3>ul>li:hover>a:last-child {display: 
 
   .nftDetailsPage>.contents>.nftinfoArea>.btnArea1 {margin-bottom: 5vw; display: block; width: 100%; height: auto; border-radius: 2vw; overflow: hidden;}
   .nftDetailsPage>.contents>.nftinfoArea>.btnArea1>a {padding:4vw 0; display: block; font-weight: 600; font-size: 5vw; color: #fff; line-height: normal; text-align: center;
-    background: #8fdef1; /* Old browsers */
-    background: -moz-linear-gradient(left,  #8fdef1 0%, #1eb7e3 50%, #1ba4e6 100%); /* FF3.6-15 */
-    background: -webkit-linear-gradient(left,  #8fdef1 0%,#1eb7e3 50%,#1ba4e6 100%); /* Chrome10-25,Safari5.1-6 */
-    background: linear-gradient(to right,  #8fdef1 0%,#1eb7e3 50%,#1ba4e6 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
-    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#8fdef1', endColorstr='#1ba4e6',GradientType=1); /* IE6-9 */
+    background: #DD727A; /* Old browsers */
+    background: -moz-linear-gradient(left,  #DD727A 0%, #D54F59 50%, #CB2430 100%); /* FF3.6-15 */
+    background: -webkit-linear-gradient(left,  #DD727A 0%,#D54F59 50%,#CB2430 100%); /* Chrome10-25,Safari5.1-6 */
+    background: linear-gradient(to right,  #DD727A 0%,#D54F59 50%,#CB2430 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#DD727A', endColorstr='#CB2430',GradientType=1); /* IE6-9 */
   }
 
   .nftDetailsPage>.contents>.nftinfoArea>.btnArea2 {margin-bottom: 5vw; display: flex; flex-direction: row; flex-wrap: nowrap; justify-content: space-between; align-items: center; width: 100%; height: auto;}
   .nftDetailsPage>.contents>.nftinfoArea>.btnArea2>a {padding:6vw 0; display: block; width: 47%; font-weight: 600; font-size: 5vw; text-align: center; box-sizing: border-box; border-radius: 8px;}
   .nftDetailsPage>.contents>.nftinfoArea>.btnArea2>a.buynow {color: #fff;
-    background: #8fdef1; /* Old browsers */
-    background: -moz-linear-gradient(left,  #8fdef1 0%, #1eb7e3 50%, #1ba4e6 100%); /* FF3.6-15 */
-    background: -webkit-linear-gradient(left,  #8fdef1 0%,#1eb7e3 50%,#1ba4e6 100%); /* Chrome10-25,Safari5.1-6 */
-    background: linear-gradient(to right,  #8fdef1 0%,#1eb7e3 50%,#1ba4e6 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
-    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#8fdef1', endColorstr='#1ba4e6',GradientType=1); /* IE6-9 */}
-  .nftDetailsPage>.contents>.nftinfoArea>.btnArea2>a.bidnow {color: #1ba4e6; background-color: #F5F6FA; border:1px solid #1ba4e6;}
+    background: #DD727A; /* Old browsers */
+    background: -moz-linear-gradient(left,  #DD727A 0%, #D54F59 50%, #CB2430 100%); /* FF3.6-15 */
+    background: -webkit-linear-gradient(left,  #DD727A 0%,#D54F59 50%,#CB2430 100%); /* Chrome10-25,Safari5.1-6 */
+    background: linear-gradient(to right,  #DD727A 0%,#D54F59 50%,#CB2430 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#DD727A', endColorstr='#CB2430',GradientType=1); /* IE6-9 */}
+  .nftDetailsPage>.contents>.nftinfoArea>.btnArea2>a.bidnow {color: #CB2430; background-color: #F5F6FA; border:1px solid #CB2430;}
 
 
 
@@ -1342,7 +1342,7 @@ footer>.footerConts>.footerCont>.footerCont3>ul>li:hover>a:last-child {display: 
 
   .nftaddprevPage>.contents>.nftinfoArea>.descripArea {margin-bottom:4vw; display: block; width: 97%; text-align: right;}
   .nftaddprevPage>.contents>.nftinfoArea>.descripArea>p {margin-left: 8vw; font-weight: 400; font-size: 15px;  color: #000; display: -webkit-box; text-align: left; line-height: 1.5; text-align: left; word-wrap: break-word; white-space: pre-wrap; -webkit-line-clamp: 2; -webkit-box-orient: vertical;}
-  .nftaddprevPage>.contents>.nftinfoArea>.descripArea>a {margin-top: 2vw; padding:1vw 2vw; display: inline-block; font-weight: 400; font-size: 13px; color: #fff; background-color:#1ba4e6; border-radius: 10px;}
+  .nftaddprevPage>.contents>.nftinfoArea>.descripArea>a {margin-top: 2vw; padding:1vw 2vw; display: inline-block; font-weight: 400; font-size: 13px; color: #fff; background-color:#CB2430; border-radius: 10px;}
 
   .nftaddprevPage>.contents>.nftinfoArea>.ownerInfo {margin-left: 8vw; margin-bottom: 40px; display: block; width: 100%; height: auto;}
   .nftaddprevPage>.contents>.nftinfoArea>.ownerInfo>p {font-weight: 600; font-size: 19px; color: #000; line-height: normal;}
@@ -1361,7 +1361,7 @@ footer>.footerConts>.footerCont>.footerCont3>ul>li:hover>a:last-child {display: 
 
   .nftaddprevPage>.contents>.nftinfoArea>.bidslistArea {margin-bottom: 10vw; display: block; width: 100%; height: auto;}
   .nftaddprevPage>.contents>.nftinfoArea>.bidslistArea>p {margin-left: 8vw; margin-bottom: 3vw; position: relative; font-weight: 600; font-size: 5vw; color: #000; line-height: normal;}
-  .nftaddprevPage>.contents>.nftinfoArea>.bidslistArea>p>a {margin-right: 5vw; position: absolute; top:50%; right:0; padding:1vw 2vw; display: block; font-weight: 500; font-size: 3vw; color: #fff; background-color:#1ba4e6; transform: translateY(-50%); border-radius: 10px;}
+  .nftaddprevPage>.contents>.nftinfoArea>.bidslistArea>p>a {margin-right: 5vw; position: absolute; top:50%; right:0; padding:1vw 2vw; display: block; font-weight: 500; font-size: 3vw; color: #fff; background-color:#CB2430; transform: translateY(-50%); border-radius: 10px;}
   .nftaddprevPage>.contents>.nftinfoArea>.bidslistArea>.contlist {display: none; width: 100%; height: auto;}
   .nftaddprevPage>.contents>.nftinfoArea>.bidslistArea>.contlist>ul {}
   .nftaddprevPage>.contents>.nftinfoArea>.bidslistArea>.contlist>ul>li {margin-bottom: 2vw;}
@@ -1370,7 +1370,7 @@ footer>.footerConts>.footerCont>.footerCont3>ul>li:hover>a:last-child {display: 
   .nftaddprevPage>.contents>.nftinfoArea>.bidslistArea>.contlist>ul>li>p>span {font-weight: 500;}
   .nftaddprevPage>.contents>.nftinfoArea>.bidslistArea>.contlist>ul>li>p>em {color: #777E90;}
   .nftaddprevPage>.contents>.nftinfoArea>.bidslistArea>.contlist>ul>li.nodata {display: block; width: 100%; height: auto; text-align: center;}
-  .nftaddprevPage>.contents>.nftinfoArea>.bidslistArea>.contlist>ul>li.nodata>p {padding:4vw 0; font-weight: 500; font-size: 5vw; color: #1ba4e6; line-height: normal;}
+  .nftaddprevPage>.contents>.nftinfoArea>.bidslistArea>.contlist>ul>li.nodata>p {padding:4vw 0; font-weight: 500; font-size: 5vw; color: #CB2430; line-height: normal;}
 
   .nftaddprevPage>.contents>.nftinfoArea>.linkArea {margin-bottom: 10vw; display: block; width: 100%; height: auto;}
   .nftaddprevPage>.contents>.nftinfoArea>.linkArea>p {margin-left: 8vw; margin-bottom: 4vw; position: relative; font-weight: 600; font-size: 5vw; color: #000; line-height: normal;}
@@ -1386,22 +1386,22 @@ footer>.footerConts>.footerCont>.footerCont3>ul>li:hover>a:last-child {display: 
 
   .nftaddprevPage>.contents>.nftinfoArea>.btnArea1 {margin: 1.5vw; margin-bottom: 5vw; display: block; width: 97%; height: auto; border-radius: 2vw; overflow: hidden;}
   .nftaddprevPage>.contents>.nftinfoArea>.btnArea1>a {padding:4vw 0; display: block; font-weight: 600; font-size: 5vw; color: #fff; line-height: normal; text-align: center;
-    background: #8fdef1; /* Old browsers */
-    background: -moz-linear-gradient(left,  #8fdef1 0%, #1eb7e3 50%, #1ba4e6 100%); /* FF3.6-15 */
-    background: -webkit-linear-gradient(left,  #8fdef1 0%,#1eb7e3 50%,#1ba4e6 100%); /* Chrome10-25,Safari5.1-6 */
-    background: linear-gradient(to right,  #8fdef1 0%,#1eb7e3 50%,#1ba4e6 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
-    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#8fdef1', endColorstr='#1ba4e6',GradientType=1); /* IE6-9 */
+    background: #DD727A; /* Old browsers */
+    background: -moz-linear-gradient(left,  #DD727A 0%, #D54F59 50%, #CB2430 100%); /* FF3.6-15 */
+    background: -webkit-linear-gradient(left,  #DD727A 0%,#D54F59 50%,#CB2430 100%); /* Chrome10-25,Safari5.1-6 */
+    background: linear-gradient(to right,  #DD727A 0%,#D54F59 50%,#CB2430 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#DD727A', endColorstr='#CB2430',GradientType=1); /* IE6-9 */
   }
 
   .nftaddprevPage>.contents>.nftinfoArea>.btnArea2 {margin-bottom: 5vw; display: flex; flex-direction: row; flex-wrap: nowrap; justify-content: space-between; align-items: center; width: 100%; height: auto;}
   .nftaddprevPage>.contents>.nftinfoArea>.btnArea2>a {padding:6vw 0; display: block; width: 47%; font-weight: 600; font-size: 5vw; text-align: center; box-sizing: border-box; border-radius: 8px;}
   .nftaddprevPage>.contents>.nftinfoArea>.btnArea2>a.buynow {color: #fff;
-    background: #8fdef1; /* Old browsers */
-    background: -moz-linear-gradient(left,  #8fdef1 0%, #1eb7e3 50%, #1ba4e6 100%); /* FF3.6-15 */
-    background: -webkit-linear-gradient(left,  #8fdef1 0%,#1eb7e3 50%,#1ba4e6 100%); /* Chrome10-25,Safari5.1-6 */
-    background: linear-gradient(to right,  #8fdef1 0%,#1eb7e3 50%,#1ba4e6 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
-    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#8fdef1', endColorstr='#1ba4e6',GradientType=1); /* IE6-9 */}
-  .nftaddprevPage>.contents>.nftinfoArea>.btnArea2>a.bidnow {color: #1ba4e6; background-color: #F5F6FA; border:1px solid #1ba4e6;}
+    background: #DD727A; /* Old browsers */
+    background: -moz-linear-gradient(left,  #DD727A 0%, #D54F59 50%, #CB2430 100%); /* FF3.6-15 */
+    background: -webkit-linear-gradient(left,  #DD727A 0%,#D54F59 50%,#CB2430 100%); /* Chrome10-25,Safari5.1-6 */
+    background: linear-gradient(to right,  #DD727A 0%,#D54F59 50%,#CB2430 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#DD727A', endColorstr='#CB2430',GradientType=1); /* IE6-9 */}
+  .nftaddprevPage>.contents>.nftinfoArea>.btnArea2>a.bidnow {color: #CB2430; background-color: #F5F6FA; border:1px solid #CB2430;}
   
   
   

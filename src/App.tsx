@@ -42,14 +42,14 @@ const App = () => {
         <meta property="og:type" content="website"/>
         <meta property="og:image" content="../assets/img/meta-img.png"/>
         <meta property="og:url" content="https://dodogocoin.net"/>
-        <meta property="og:image:alt" content="DODOGO-NFT"/>
-        <meta name="twitter:title" content="DODOGO-NFT"/>
+        <meta property="og:image:alt" content="DMCK-NFT"/>
+        <meta name="twitter:title" content="DMCK-NFT"/>
         <meta name="twitter:description" content="Create, sell, and auction NFTs, digital items, and crypto collectibles. Explore new items everyday."/>
         <meta name="twitter:image" content="../assets/img/meta-img.png"/>
         <meta name="twitter:card" content="summary_large_image"/>
-        <meta property="site_name" content="DODOGO-NFT"/>
+        <meta property="site_name" content="DMCK-NFT"/>
 
-        <title>DODOGO-NFT</title>
+        <title>DMCK-NFT</title>
         {/* <link
           href="https://fonts.googleapis.com/css?family=Open+Sans:300,400,600,700"
           rel="stylesheet"

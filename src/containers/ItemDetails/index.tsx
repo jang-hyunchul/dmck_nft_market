@@ -851,7 +851,7 @@ const onBuyNow = async () => {
   
 	useEffect(() => {
 
-		handleTitle('DODOGO-NFT');
+		handleTitle('DMCK-NFT');
 		getMainWidth();
 		// const now = new Date();
 	   
