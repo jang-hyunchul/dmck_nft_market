@@ -366,8 +366,8 @@ function SidenavHeader({ AsidelogoCt, hideShowSidebar }) {
         </div>
         <ul className="clearfix">
           <li><a href="#none" onClick={() => {goAuction(0);mobmnuPop();}}>Explore</a></li>
-          <li><a href={Pdf_ko}>Guides(ko)</a></li>
-          <li><a href={Pdf_en}>Guides(en)</a></li>
+          {/* <li><a href={Pdf_ko}>Guides(ko)</a></li>
+          <li><a href={Pdf_en}>Guides(en)</a></li> */}
           <li><a href="#none" onClick={()=>{window.open('https://dodogocoin.net');mobmnuPop();}}>Contact Us</a></li>
           <li><a href="#none" onClick={() => {createItem();mobmnuPop();}}>Create</a></li>
         </ul>
