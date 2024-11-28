@@ -966,11 +966,11 @@ const onBuyNow = async () => {
 					<div className="priceInfo">
 						<div className="contbox">
 						<p>Current Price</p>
-						<p><span className="frame"><img src={TVsOn} alt=""/></span><span><em>{auction?.currentPrice}</em>DDP</span></p>
+						<p><span className="frame"><img src={TVsOn} alt=""/></span><span><em>{auction?.currentPrice}</em>DMCK</span></p>
 						</div>
 						<div className="contbox">
 						<p>Buy Now</p>
-						<p><span className="frame"><img src={TVsOn} alt=""/></span><span><em>{auction?.buyNowPrice}</em>DDP</span></p>
+						<p><span className="frame"><img src={TVsOn} alt=""/></span><span><em>{auction?.buyNowPrice}</em>DMCK</span></p>
 						</div>
 					</div>
 
@@ -1128,7 +1128,7 @@ const onBuyNow = async () => {
 					<span>Buy Now Price</span>
 					<input type="text" value={auction?.buyNowPrice} readOnly />
 					
-					<span>DDP</span>
+					<span>DMCK</span>
 					</div>
 				</div>
 				</div>
@@ -1158,7 +1158,7 @@ const onBuyNow = async () => {
 						<div className="inputArea on">
 						<span>You are Bid</span>
 						<input type="text" name="bidinput" id="bidinput" ref={inputRef} onKeyUp={biddingChk} onInput={numberChk}/>
-						<span>DDP</span>
+						<span>DMCK</span>
 						</div>
 						<span className="err" style={{display:'none'}}>Must be higher than the highest bid</span>
 					</div>
@@ -1180,8 +1180,8 @@ const onBuyNow = async () => {
 				<div className="inputbox step1">
 					<p>Starting price<span>*</span></p>
 					<div className="inputArea">
-						<input type="text" id="startPrice" placeholder="Enter DDP Quantity" onKeyUp={chkCreateAuc1} onInput={numberChk}/>
-						<span>DDP</span>
+						<input type="text" id="startPrice" placeholder="Enter DMCK Quantity" onKeyUp={chkCreateAuc1} onInput={numberChk}/>
+						<span>DMCK</span>
 					</div>
 					<span className="err type1" style={{display:'none'}}>Please enter a starting price</span>
 				</div>
@@ -1190,7 +1190,7 @@ const onBuyNow = async () => {
 					<p>Buy now price<span>*</span></p>
 					<div className="inputArea">
 						<input type="text" id="buyNowPrice" placeholder="Enter a buy now price" onKeyUp={chkCreateAuc2} onInput={numberChk}/>
-						<span>DDP</span>
+						<span>DMCK</span>
 					</div>
 					<span className="err" style={{display:'none'}}>Please enter a buy now price</span>
 				</div>
@@ -1253,7 +1253,7 @@ const onBuyNow = async () => {
 								{auction && auction?.highestBidder && auction?.highestBidder.substr(auction?.highestBidder.length - 7)}
 								</span>
 						</p>
-						<p>You will receive <span><em>{Number((auction?.currentPrice*0.975).toFixed(0))}</em>DDP</span></p>
+						<p>You will receive <span><em>{Number((auction?.currentPrice*0.975).toFixed(0))}</em>DMCK</span></p>
 					</div>
 				</div>
 				<div className="btnArea">
